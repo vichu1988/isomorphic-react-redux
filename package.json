@@ -1,0 +1,42 @@
+{
+  "name": "isomorphic-react-redux",
+  "version": "0.0.1",
+  "description": "isomorphic react + redux shopping cart with async data fetch",
+  "main": "src/server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vichu1988/isomorphic-react-redux.git"
+  },
+  "keywords": [
+    "isomorphic",
+    "react",
+    "redux",
+    "async",
+    "shopingcart",
+    "auth"
+  ],
+  "author": "Visweshwaran S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vichu1988/isomorphic-react-redux/issues"
+  },
+  "homepage": "https://github.com/vichu1988/isomorphic-react-redux#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.9.1",
+    "babel-register": "^6.9.0",
+    "express": "^4.13.4",
+    "material-ui": "^0.15.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.4.1",
+    "react-router-redux": "^4.0.4",
+    "react-tap-event-plugin": "^1.0.0",
+    "redux": "^3.5.2",
+    "webpack": "^1.13.1"
+  }
+}
